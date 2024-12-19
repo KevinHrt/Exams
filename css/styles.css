@@ -1,0 +1,21 @@
+.container-fluid{
+  padding: 3% 15% !important;
+}
+.carouselImage{
+  height:150px;
+  width:150px;
+  border-radius:50%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#reviews{
+  text-align:center;
+  font-family: "Open Sans";
+  margin:auto;
+  background-color:#3B1C32;
+}
+#classes{
+  background-color:#1A1A1D;
+}
+#footer{
+  background-color: #A64D79;
+}
